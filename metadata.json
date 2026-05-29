@@ -1,0 +1,6 @@
+{
+  "name": "CROPGUARDIAN",
+  "description": "Detect plant diseases using AI/Deep Learning and get pesticide recommendations based on uploaded images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
